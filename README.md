@@ -1,2 +1,6 @@
 # Paper-reading
-My Paper Reading List and Notes.
+论文阅读清单和阅读笔记
+
+检查点最优时间间隔确定
+- [ ] 
+
